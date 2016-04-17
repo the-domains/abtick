@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Abtick]]></title>
+        <description><![CDATA[Abtick]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 17 Apr 2016 16:03:27 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Another Man by Len Sander]]></title>
+            <description><![CDATA[<article><h1>Another Man by Len Sander</h1><p>Saltlick EP out May 20, 2016 on Mouthwatering Records</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01ac0f025979c3eb82635e3db323cf08f134beb3.jpg"></article>]]></description>
+            <link>https://soundcloud.com/lensander/ls-another-man</link>
+            <guid isPermaLink="false">02a01429-d3b7-45e2-8a05-2f1480beb6aa</guid>
+            <pubDate>Sun, 17 Apr 2016 16:03:04 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
