@@ -1,0 +1,28 @@
+name: Abtick
+favicon: null
+layout_spectrum: 0.9461237993091345
+typography_spectrum: 0.7968359796795994
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.09119641501456499
+  lightness: 0.3122492441907525
+  saturation: 0.7231154593173414
+  rhythmicContrast: 0.8315708914306015
+purpose: []
